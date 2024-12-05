@@ -110,6 +110,15 @@ Publish the website in the given URL.
 # OUTPUT:
 ![Screenshot (19)](https://github.com/user-attachments/assets/e2fe8a16-c809-4295-b9a7-df05d773d7b8)
 
+
+
+
+
+
+
+
+
+
 # MANU CARD:
 ![Screenshot (21)](https://github.com/user-attachments/assets/4c40bfab-b5e6-486a-8ea9-6107683c64a6)
 
